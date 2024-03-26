@@ -1,0 +1,80 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "image": "https://i.ibb.co/YN1vM3k/kindpng-7318921.png",
+        "review": "A gripping psychological thriller that keeps you guessing until the very end.",
+        "totalPages": 336,
+        "rating": 4.5,
+        "category": "Mystery",
+        "tags": ["Suspense", "Psychological"],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+      },
+      {
+        "bookId": 2,
+        "bookName": "Educated",
+        "author": "Tara Westover",
+        "image": "https://i.ibb.co/YN1vM3k/kindpng-7318921.png",
+        "review": "A powerful memoir about resilience, education, and breaking free from a difficult past.",
+        "totalPages": 352,
+        "rating": 4.8,
+        "category": "Biography",
+        "tags": ["Inspiring", "Memoir"],
+        "publisher": "Random House",
+        "yearOfPublishing": 2018
+      },
+      {
+        "bookId": 3,
+        "bookName": "The Nightingale",
+        "author": "Kristin Hannah",
+        "image": "https://i.ibb.co/YN1vM3k/kindpng-7318921.png",
+        "review": "An emotional and beautifully written historical fiction set during World War II.",
+        "totalPages": 440,
+        "rating": 4.7,
+        "category": "Historical Fiction",
+        "tags": ["War", "Family"],
+        "publisher": "St. Martin's Press",
+        "yearOfPublishing": 2015
+      },
+      {
+        "bookId": 4,
+        "bookName": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "image": "https://i.ibb.co/YN1vM3k/kindpng-7318921.png",
+        "review": "A mesmerizing novel that combines mystery, romance, and the beauty of nature.",
+        "totalPages": 384,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": ["Nature", "Southern"],
+        "publisher": "G.P. Putnam's Sons",
+        "yearOfPublishing": 2018
+      },
+      {
+        "bookId": 5,
+        "bookName": "The Goldfinch",
+        "author": "Donna Tartt",
+        "image": "https://i.ibb.co/YN1vM3k/kindpng-7318921.png",
+        "review": "A sprawling coming-of-age novel with richly drawn characters and intricate storytelling.",
+        "totalPages": 784,
+        "rating": 4.3,
+        "category": "Literary Fiction",
+        "tags": ["Art", "Loss"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 2013
+      },
+      {
+        "bookId": 6,
+        "bookName": "The Girl on the Train",
+        "author": "Paula Hawkins",
+        "image": "https://i.ibb.co/YN1vM3k/kindpng-7318921.png",
+        "review": "A gripping psychological thriller with an unreliable narrator and unexpected twists.",
+        "totalPages": 336,
+        "rating": 4.0,
+        "category": "Suspense",
+        "tags": ["Mystery", "Domestic"],
+        "publisher": "Riverhead Books",
+        "yearOfPublishing": 2015
+      }
+]
